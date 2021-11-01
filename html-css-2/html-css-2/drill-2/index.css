@@ -1,0 +1,49 @@
+.box1{
+    border: 2px solid rgb(14, 14, 14);
+    padding: 10px;
+    margin: 35px;
+}
+.purplesqr{
+    height: 100px;
+    width: 40px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin: 0;
+}
+.greensqr{
+    height: 175px;
+    width: 330px;
+    background-color: green;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.circle{
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    background-color: lightskyblue;
+    display: inline-block;
+}
+.box2{
+    border: 2px dotted rgb(14, 14, 14);
+    margin: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ybox{
+    background-color:palegoldenrod;
+    height: 300px;
+    width: 75000px;
+    display: inline-block;
+    margin: 35px;
+    box-shadow: 2px 1px 7px 2px rgb(22, 23, 29);
+}
+.box3{
+    box-shadow: 1px 1px 1px 4px rgb(22, 23, 29);
+}
+h1{
+    text-align: center;
+    margin: 50px;
+}

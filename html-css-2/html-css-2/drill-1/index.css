@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.topbar{
+    background-color: rgb(63, 62, 62);
+    height: 7rem;
+    position: relative;
+    z-index: 1;
+
+}
+.collum{
+    background-color: rgb(173, 173, 173);
+    height: 100rem;
+    width: 10rem;
+    position: relative;
+    z-index: 2;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.bottom{
+    background-color: rgb(24, 24, 24);
+    height: 10rem;
+    position: relative;
+    bottom: 0;
+    z-index: 3;
+}
